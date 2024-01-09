@@ -25,3 +25,4 @@ Mosaic uses Javascript and the React library.
 - [ ] Implement a Parser for Common Knitting Pattern Notation.
 		- [ ] Allow Interactivity for accessibility.
 - [ ] Implement a Parser for Common Knitting Pattern Notation.
+
