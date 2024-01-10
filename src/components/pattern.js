@@ -27,6 +27,10 @@ function toLetter(stitch){
   }
 }
 
+class Cell{
+  front
+}
+
 class Pattern{
   // class to host the knit pattern
   stitchesPerRow = null
